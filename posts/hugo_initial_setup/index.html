@@ -18,7 +18,7 @@
 		<meta itemprop="name" content="Hugo blog site github local repo sync">
 <meta itemprop="description" content="Hugo blog site github local repo sync"><meta itemprop="datePublished" content="2017-08-21T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2017-08-21T00:00:00+00:00" />
-<meta itemprop="wordCount" content="320">
+<meta itemprop="wordCount" content="326">
 <meta itemprop="keywords" content="hugo,setup,git," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hugo blog site github local repo sync"/>
@@ -46,7 +46,7 @@
 					<img class="logo__img" src="/devnull.github.io/img/devnull.png">
 				</div><div class="logo__item logo__text">
 					<div class="logo__title">hub</div>
-					<div class="logo__tagline">Just another site</div>
+					<div class="logo__tagline">Just another blog site</div>
 				</div>
 		</a>
 	</div>
@@ -64,18 +64,13 @@
 <div class="meta__item-datetime meta__item">
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-08-21T00:00:00Z">2017-08-21</time></div></div>
 		</header>
-		
-<div class="post__toc toc">
-	<div class="toc__title">Page content</div>
-	<div class="toc__menu">
-		<nav id="TableOfContents">
-  <ul>
-    <li><a href="#submodule">Submodule</a></li>
-  </ul>
-</nav>
-	</div>
-</div><div class="content post__content clearfix">
-			<h1 id="hugo-local-setup">Hugo Local Setup</h1>
+		<div class="content post__content clearfix">
+			<ul>
+<li><a href="#hugo-local-setup">Hugo Local Setup</a></li>
+<li><a href="#submodule">Submodule</a></li>
+<li><a href="#github-pages">GitHub Pages</a></li>
+</ul>
+<h1 id="hugo-local-setup">Hugo Local Setup</h1>
 <p>Testing hugo blog site github</p>
 <ol>
 <li>Create two repositories</li>
@@ -84,22 +79,24 @@
 <li>blog &ndash;&gt; public</li>
 <li>local-devnull-hub.io &ndash;&gt; public</li>
 </ul>
-<ol start="2">
-<li>Clone blog local git or create with <code>hugo new</code></li>
-</ol>
+<ol>
+<li>
+<p>Clone blog local git or create with <code>hugo new</code></p>
 <ul>
 <li>git clone http://localhost/user/blog.git</li>
 <li>cd to blog</li>
 <li>Create new <code>hugo new site blog-local-devnull.io</code></li>
 <li>new empty site dire <code>blog-local-devnull.io</code></li>
-<li>Choose <a href="https://themes.gohugo.io/themes/soho/">themes</a></li>
+<li>Choose <a href="https://themes.gohugo.io/">themes</a></li>
 </ul>
-<ol>
-<li>Installation theme</li>
+</li>
+<li>
+<p>Installation theme</p>
+</li>
 </ol>
 <p>From project&rsquo;s root directory, run:</p>
-<p><code>git clone https://github.com/vimux/mainroad.git themes/mainroad</code>
-Or, if not planning to make any significant changes but want to track and update the theme, add it as a git submodule via the following command:</p>
+<p><code>git clone https://github.com/vimux/mainroad.git themes/mainroad</code></p>
+<p>Or, if not planning to make any significant changes but want to track and update the theme, add it as a git submodule via the following command:</p>
 <p><code>git submodule add https://github.com/vimux/mainroad.git themes/mainroad</code></p>
 <p>Specify <code>mainroad</code> as default theme in the <code>config.toml</code> file.</p>
 <p><code>theme = &quot;mainroad&quot;</code></p>
@@ -127,7 +124,7 @@ Or, if not planning to make any significant changes but want to track and update
 <li><strong>produciton</strong> repo - were we deploy from</li>
 </ul>
 <p>In production repo need to make sure have one commit and main branch.</p>
-<ol start="5">
+<ol start="6">
 <li>Production repo setup</li>
 </ol>
 <p>If <code>README.md</code> not added to remote repo then complete following or just add submodule</p>
@@ -138,13 +135,13 @@ Or, if not planning to make any significant changes but want to track and update
 </span></span><span style="display:flex;"><span>git add .
 </span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;adding readme.md&#34;</span>
 </span></span><span style="display:flex;"><span>git push origin main
-</span></span></code></pre></div><ol start="6">
+</span></span></code></pre></div><ol start="7">
 <li>Add submodule to blog</li>
 </ol>
 <p>Deploying from the public folder.</p>
-<h2 id="submodule">Submodule</h2>
+<h1 id="submodule">Submodule</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git submodule add -b main https://github.com/devnull-hub/devnull.github.io.git public
-</span></span></code></pre></div><ol start="7">
+</span></span></code></pre></div><ol start="8">
 <li>Generate static files</li>
 </ol>
 <p>Run for the theme used <code>mainroad</code></p>
