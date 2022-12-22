@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/tags/git/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/tags/hugo/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/posts/hugo_initial_setup/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/posts/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/tags/setup/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/tags/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://devnull-hub.github.io/devnull.github.io/categories/</loc>
   </url>
+  
 </urlset>
