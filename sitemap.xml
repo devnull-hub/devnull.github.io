@@ -1,79 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://devnall.io/static/about/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+    <loc>https://devnall.io/geeky-hugo/blog/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/categories/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/tags/development/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/blog/getting-started-with-hugo/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/tags/git/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/tags/go/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/tags/golang/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/tags/hugo/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/blog/hugo_initial_setup/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/tags/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/categories/web/</loc>
+    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/about/</loc>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/contact/</loc>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/privacy-policy/</loc>
+  </url><url>
+    <loc>https://devnall.io/geeky-hugo/search/</loc>
   </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/about/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/git/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/hugo/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/posts/hugo_initial_setup/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/posts/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/setup/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/static/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/development/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/posts/getting-started-with-hugo/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/go/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/tags/golang/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devnall.io/categories/</loc>
-  </url>
-  
 </urlset>
