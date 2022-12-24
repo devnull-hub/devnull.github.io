@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on devnall |  Personal Blog</title>
-    <link>https://devnall.io/geeky-hugo/tags/</link>
+    <link>https://devnall.io/tags/</link>
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/geeky-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>https://devnall.io/geeky-hugo/tags/development/</link>
+      <link>https://devnall.io/tags/development/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/geeky-hugo/tags/development/</guid>
+      <guid>https://devnall.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://devnall.io/geeky-hugo/tags/git/</link>
+      <link>https://devnall.io/tags/git/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/geeky-hugo/tags/git/</guid>
+      <guid>https://devnall.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://devnall.io/geeky-hugo/tags/go/</link>
+      <link>https://devnall.io/tags/go/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/geeky-hugo/tags/go/</guid>
+      <guid>https://devnall.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://devnall.io/geeky-hugo/tags/golang/</link>
+      <link>https://devnall.io/tags/golang/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/geeky-hugo/tags/golang/</guid>
+      <guid>https://devnall.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://devnall.io/geeky-hugo/tags/hugo/</link>
+      <link>https://devnall.io/tags/hugo/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/geeky-hugo/tags/hugo/</guid>
+      <guid>https://devnall.io/tags/hugo/</guid>
       <description></description>
     </item>
     

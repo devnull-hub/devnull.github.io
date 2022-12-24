@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on devnall |  Personal Blog</title>
-    <link>https://devnall.io/geeky-hugo/categories/</link>
+    <link>https://devnall.io/categories/</link>
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/geeky-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>web</title>
-      <link>https://devnall.io/geeky-hugo/categories/web/</link>
+      <link>https://devnall.io/categories/web/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/geeky-hugo/categories/web/</guid>
+      <guid>https://devnall.io/categories/web/</guid>
       <description></description>
     </item>
     
