@@ -6,13 +6,31 @@
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 10:35:49 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>android</title>
+      <link>https://devnall.io/categories/android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/categories/android/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>vcode</title>
       <link>https://devnall.io/categories/vcode/</link>
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
       
       <guid>https://devnall.io/categories/vcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://devnall.io/categories/hugo/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/categories/hugo/</guid>
       <description></description>
     </item>
     

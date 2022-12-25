@@ -6,7 +6,34 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 10:35:49 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>android</title>
+      <link>https://devnall.io/tags/android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://devnall.io/tags/hugo/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://devnall.io/tags/mobile/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>vscode</title>
       <link>https://devnall.io/tags/vscode/</link>
@@ -49,15 +76,6 @@
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
       <guid>https://devnall.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://devnall.io/tags/hugo/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://devnall.io/tags/hugo/</guid>
       <description></description>
     </item>
     

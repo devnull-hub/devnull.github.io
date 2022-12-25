@@ -13,8 +13,7 @@
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
       <guid>https://devnall.io/blog/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.</description>
+      <description>Hugo static HTML and CSS website generator Hugo is a static HTML and CSS website generator written in Go and edited in markdown.</description>
     </item>
     
   </channel>

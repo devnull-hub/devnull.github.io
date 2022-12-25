@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://devnall.io/tags/android/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/android/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/blog/</loc>
-    <lastmod>2022-12-24T10:35:49+00:00</lastmod>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/</loc>
-    <lastmod>2022-12-24T10:35:49+00:00</lastmod>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/</loc>
-    <lastmod>2022-12-24T10:35:49+00:00</lastmod>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/hugo/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/hugo-on-android/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/mobile/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/</loc>
-    <lastmod>2022-12-24T10:35:49+00:00</lastmod>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/vcode/</loc>
     <lastmod>2022-12-24T10:35:49+00:00</lastmod>
@@ -38,7 +53,7 @@
     <loc>https://devnall.io/tags/golang/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/tags/hugo/</loc>
+    <loc>https://devnall.io/categories/hugo/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo_initial_setup/</loc>
