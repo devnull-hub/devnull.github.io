@@ -6,7 +6,17 @@
     <description>Recent content in hugo on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo running on Android</title>
+      <link>https://devnall.io/blog/hugo-on-android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo-on-android/</guid>
+      <description>Hugo Running on Android Assumption turmux already installed.
+Termux on Android needs to be install. Use apt or pkg to install hugo.</description>
+    </item>
+    
     <item>
       <title>Getting Started with Hugo</title>
       <link>https://devnall.io/blog/getting-started-with-hugo/</link>
@@ -22,7 +32,7 @@
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
       <guid>https://devnall.io/blog/hugo_initial_setup/</guid>
-      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. These will step through publishing and pushing the newest content.</description>
+      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>
     </item>
     
   </channel>

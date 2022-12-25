@@ -20,6 +20,9 @@
     <loc>https://devnall.io/tags/hugo/</loc>
     <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/categories/hugo/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/blog/hugo-on-android/</loc>
     <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
@@ -51,9 +54,6 @@
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/golang/</loc>
-    <lastmod>2021-01-24T18:19:25+06:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/categories/hugo/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo_initial_setup/</loc>
