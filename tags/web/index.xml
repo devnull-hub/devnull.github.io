@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on devnall |  Personal Blog</title>
+    <link>https://devnall.io/tags/web/</link>
+    <description>Recent content in web on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Content Organization</title>
+      <link>https://devnall.io/blog/hugo/tips/content-org/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/content-org/</guid>
+      <description>Content Organization Trying to find a good way to organize content and this looks like this could be completed with Page Bundles.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Improve Usability</title>
+      <link>https://devnall.io/blog/hugo/tips/site-info/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/site-info/</guid>
+      <description>Make Site More Informative Add Reading Time to current theme.
+Add Reading Time to list Page Showing Reading Time is a great addition, by helping visitors to decide if the article is interesting enough to read.</description>
+    </item>
+    
+  </channel>
+</rss>

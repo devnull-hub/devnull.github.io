@@ -23,7 +23,13 @@
     <loc>https://devnall.io/categories/hugo/</loc>
     <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/blog/hugo-on-android/</loc>
+    <loc>https://devnall.io/blog/hugo/tips/content-org/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/hugo/tips/site-info/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/hugo/android/</loc>
     <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/mobile/</loc>
@@ -32,19 +38,22 @@
     <loc>https://devnall.io/tags/</loc>
     <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/tags/web/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/categories/vcode/</loc>
     <lastmod>2022-12-24T10:35:49+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/vscode/</loc>
     <lastmod>2022-12-24T10:35:49+00:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/blog/vscode-exten-markdown/</loc>
+    <loc>https://devnall.io/blog/vscode/exten-markdown/</loc>
     <lastmod>2022-12-24T10:35:49+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/development/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/blog/getting-started-with-hugo/</loc>
+    <loc>https://devnall.io/blog/hugo/getting-started/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/git/</loc>
@@ -56,7 +65,7 @@
     <loc>https://devnall.io/tags/golang/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/blog/hugo_initial_setup/</loc>
+    <loc>https://devnall.io/blog/hugo/initial-setup/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/web/</loc>
