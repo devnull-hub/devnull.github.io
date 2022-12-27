@@ -6,7 +6,25 @@
     <description>Recent content in hugo on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modify Themes Hugo</title>
+      <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/mod-theme/</guid>
+      <description>How to modify themes Hugo Use non-destructive practice for Hugo themes. Hugo is designed for customization and follows a site generation workflow that works a lot like layers in photo editing software.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Adding Custom Notices</title>
+      <link>https://devnall.io/blog/hugo/tips/custom-notices/</link>
+      <pubDate>Mon, 26 Dec 2022 08:18:58 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/custom-notices/</guid>
+      <description>Hugo Adding Custom Notices WarningMight be batter way to complete this with out destroying theme.Modify Themes Hugo How to modify themes for Hugo</description>
+    </item>
+    
     <item>
       <title>Hugo Content Organization</title>
       <link>https://devnall.io/blog/hugo/tips/content-org/</link>
@@ -39,7 +57,7 @@ Termux on Android needs to be install. Use apt or pkg to install hugo.</descript
     <item>
       <title>Hugo Static Blog Site Github</title>
       <link>https://devnall.io/blog/hugo/initial-setup/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
       
       <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
       <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>

@@ -6,7 +6,25 @@
     <description>Recent content in Blog on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modify Themes Hugo</title>
+      <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/mod-theme/</guid>
+      <description>How to modify themes Hugo Use non-destructive practice for Hugo themes. Hugo is designed for customization and follows a site generation workflow that works a lot like layers in photo editing software.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Adding Custom Notices</title>
+      <link>https://devnall.io/blog/hugo/tips/custom-notices/</link>
+      <pubDate>Mon, 26 Dec 2022 08:18:58 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/custom-notices/</guid>
+      <description>Hugo Adding Custom Notices WarningMight be batter way to complete this with out destroying theme.Modify Themes Hugo How to modify themes for Hugo</description>
+    </item>
+    
     <item>
       <title>Hugo Content Organization</title>
       <link>https://devnall.io/blog/hugo/tips/content-org/</link>
@@ -37,6 +55,15 @@ Termux on Android needs to be install. Use apt or pkg to install hugo.</descript
     </item>
     
     <item>
+      <title>Hugo Static Blog Site Github</title>
+      <link>https://devnall.io/blog/hugo/initial-setup/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
+      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>
+    </item>
+    
+    <item>
       <title>VSCode Extensions for Markdown</title>
       <link>https://devnall.io/blog/vscode/exten-markdown/</link>
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
@@ -47,21 +74,31 @@ Markdown All in One Markdown All in One is a must one for editing Markdown.</des
     </item>
     
     <item>
+      <title>SSH Reverse Tunnel</title>
+      <link>https://devnall.io/blog/linux/ssh/reverse/</link>
+      <pubDate>Wed, 14 Dec 2022 22:21:00 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/linux/ssh/reverse/</guid>
+      <description>SSH Tunnel A reverse SSH tunnel allows a local service to be securely accessible by a remote connection.
+Understanding Reverse SSH Tunnels Service on local computer that is running on port 80.</description>
+    </item>
+    
+    <item>
+      <title>SSH Tunnel</title>
+      <link>https://devnall.io/blog/linux/ssh/tunnel/</link>
+      <pubDate>Wed, 14 Dec 2022 22:17:58 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/linux/ssh/tunnel/</guid>
+      <description>SSH Tunnel How to setup a basic SSH tunnel to access remote server resources that may be blocked by a firewall or simply inaccessible over the internet.</description>
+    </item>
+    
+    <item>
       <title>Getting Started with Hugo</title>
       <link>https://devnall.io/blog/hugo/getting-started/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
       <guid>https://devnall.io/blog/hugo/getting-started/</guid>
       <description>Hugo static HTML and CSS website generator Hugo is a static HTML and CSS website generator written in Go and edited in markdown.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Static Blog Site Github</title>
-      <link>https://devnall.io/blog/hugo/initial-setup/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
-      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>
     </item>
     
   </channel>

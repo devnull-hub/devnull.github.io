@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on devnall |  Personal Blog</title>
+    <link>https://devnall.io/categories/tips/</link>
+    <description>Recent content in tips on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modify Themes Hugo</title>
+      <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/mod-theme/</guid>
+      <description>How to modify themes Hugo Use non-destructive practice for Hugo themes. Hugo is designed for customization and follows a site generation workflow that works a lot like layers in photo editing software.</description>
+    </item>
+    
+  </channel>
+</rss>

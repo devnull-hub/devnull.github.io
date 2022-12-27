@@ -6,7 +6,25 @@
     <description>Recent content in web on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modify Themes Hugo</title>
+      <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/mod-theme/</guid>
+      <description>How to modify themes Hugo Use non-destructive practice for Hugo themes. Hugo is designed for customization and follows a site generation workflow that works a lot like layers in photo editing software.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Adding Custom Notices</title>
+      <link>https://devnall.io/blog/hugo/tips/custom-notices/</link>
+      <pubDate>Mon, 26 Dec 2022 08:18:58 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/custom-notices/</guid>
+      <description>Hugo Adding Custom Notices WarningMight be batter way to complete this with out destroying theme.Modify Themes Hugo How to modify themes for Hugo</description>
+    </item>
+    
     <item>
       <title>Hugo Content Organization</title>
       <link>https://devnall.io/blog/hugo/tips/content-org/</link>
@@ -24,6 +42,16 @@
       <guid>https://devnall.io/blog/hugo/tips/site-info/</guid>
       <description>Make Site More Informative Add Reading Time to current theme.
 Add Reading Time to list Page Showing Reading Time is a great addition, by helping visitors to decide if the article is interesting enough to read.</description>
+    </item>
+    
+    <item>
+      <title>Hugo running on Android</title>
+      <link>https://devnall.io/blog/hugo/android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/android/</guid>
+      <description>Hugo Running on Android Assumption turmux already installed.
+Termux on Android needs to be install. Use apt or pkg to install hugo.</description>
     </item>
     
   </channel>

@@ -6,7 +6,34 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://devnall.io/tags/hugo/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://devnall.io/tags/web/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>https://devnall.io/tags/documentation/</link>
+      <pubDate>Mon, 26 Dec 2022 08:18:58 +0600</pubDate>
+      
+      <guid>https://devnall.io/tags/documentation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>android</title>
       <link>https://devnall.io/tags/android/</link>
@@ -17,11 +44,20 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://devnall.io/tags/hugo/</link>
+      <title>development</title>
+      <link>https://devnall.io/tags/development/</link>
       <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
       
-      <guid>https://devnall.io/tags/hugo/</guid>
+      <guid>https://devnall.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://devnall.io/tags/git/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/tags/git/</guid>
       <description></description>
     </item>
     
@@ -35,15 +71,6 @@
     </item>
     
     <item>
-      <title>web</title>
-      <link>https://devnall.io/tags/web/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://devnall.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>vscode</title>
       <link>https://devnall.io/tags/vscode/</link>
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
@@ -53,20 +80,20 @@
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://devnall.io/tags/development/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <title>linux</title>
+      <link>https://devnall.io/tags/linux/</link>
+      <pubDate>Wed, 14 Dec 2022 22:21:00 +0600</pubDate>
       
-      <guid>https://devnall.io/tags/development/</guid>
+      <guid>https://devnall.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>git</title>
-      <link>https://devnall.io/tags/git/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <title>SSH</title>
+      <link>https://devnall.io/tags/ssh/</link>
+      <pubDate>Wed, 14 Dec 2022 22:21:00 +0600</pubDate>
       
-      <guid>https://devnall.io/tags/git/</guid>
+      <guid>https://devnall.io/tags/ssh/</guid>
       <description></description>
     </item>
     
