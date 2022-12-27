@@ -26,5 +26,14 @@ Understanding Reverse SSH Tunnels Service on local computer that is running on p
       <description>SSH Tunnel How to setup a basic SSH tunnel to access remote server resources that may be blocked by a firewall or simply inaccessible over the internet.</description>
     </item>
     
+    <item>
+      <title>SSH Proxy</title>
+      <link>https://devnall.io/blog/linux/ssh/proxy/</link>
+      <pubDate>Wed, 14 Dec 2022 21:18:58 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/linux/ssh/proxy/</guid>
+      <description>SSH Proxy Tunnel Setup an SSH tunnel proxy server as an intermediary between a local computer and remote server that has an inaccessible resource or service.</description>
+    </item>
+    
   </channel>
 </rss>
