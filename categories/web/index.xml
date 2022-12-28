@@ -6,18 +6,7 @@
     <description>Recent content in web on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 18:00:01 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/web/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Let’s Encrypt Wildcard Certifications</title>
-      <link>https://devnall.io/web/certbot/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/web/certbot/</guid>
-      <description>Let’s Encrypt Wildcard Certifications Assuming Debian based OS
-Step 1. Install certbot APT Get the latest version certbot.
-Update apt package manager and applications.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 26 Dec 2022 08:18:58 +0600</lastBuildDate><atom:link href="https://devnall.io/categories/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Adding Custom Notices</title>
       <link>https://devnall.io/blog/hugo/tips/custom-notices/</link>

@@ -44,65 +44,20 @@
     </item>
     
     <item>
-      <title>certbot</title>
-      <link>https://devnall.io/tags/certbot/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      <title>hugo</title>
+      <link>https://devnall.io/tags/hugo/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
       
-      <guid>https://devnall.io/tags/certbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>encrypt</title>
-      <link>https://devnall.io/tags/encrypt/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/encrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>letsencrypt</title>
-      <link>https://devnall.io/tags/letsencrypt/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/letsencrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nginx</title>
-      <link>https://devnall.io/tags/nginx/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/nginx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>https://devnall.io/tags/ssl/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/ssl/</guid>
+      <guid>https://devnall.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
       <link>https://devnall.io/tags/web/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://devnall.io/tags/hugo/</link>
       <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
       
-      <guid>https://devnall.io/tags/hugo/</guid>
+      <guid>https://devnall.io/tags/web/</guid>
       <description></description>
     </item>
     
@@ -166,6 +121,87 @@
       <pubDate>Wed, 14 Dec 2022 22:21:00 +0600</pubDate>
       
       <guid>https://devnall.io/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>activecountermeasures</title>
+      <link>https://devnall.io/tags/activecountermeasures/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/activecountermeasures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://devnall.io/tags/network/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://devnall.io/tags/networking/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pi</title>
+      <link>https://devnall.io/tags/pi/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rita</title>
+      <link>https://devnall.io/tags/rita/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/rita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpi</title>
+      <link>https://devnall.io/tags/rpi/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/rpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://devnall.io/tags/security/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tap</title>
+      <link>https://devnall.io/tags/tap/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zeek</title>
+      <link>https://devnall.io/tags/zeek/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/zeek/</guid>
       <description></description>
     </item>
     

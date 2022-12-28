@@ -17,17 +17,6 @@
     </item>
     
     <item>
-      <title>Let’s Encrypt Wildcard Certifications</title>
-      <link>https://devnall.io/web/certbot/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/web/certbot/</guid>
-      <description>Let’s Encrypt Wildcard Certifications Assuming Debian based OS
-Step 1. Install certbot APT Get the latest version certbot.
-Update apt package manager and applications.</description>
-    </item>
-    
-    <item>
       <title>Modify Themes Hugo</title>
       <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
       <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
@@ -128,6 +117,15 @@ Understanding Reverse SSH Tunnels Service on local computer that is running on p
       
       <guid>https://devnall.io/archive/</guid>
       <description> All posts Posts by Tag Posts in Series Posts by Year </description>
+    </item>
+    
+    <item>
+      <title>How to use a Raspberry PI 4 as a Network Sensor with Zeek and Rita</title>
+      <link>https://devnall.io/blog/sec/rita-zeek-rpi4/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/sec/rita-zeek-rpi4/</guid>
+      <description>How to use a Raspberry PI 4 as a Network Sensor with Zeek and Rita The original idea can be found at the following:</description>
     </item>
     
     <item>

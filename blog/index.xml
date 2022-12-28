@@ -111,6 +111,15 @@ Understanding Reverse SSH Tunnels Service on local computer that is running on p
     </item>
     
     <item>
+      <title>How to use a Raspberry PI 4 as a Network Sensor with Zeek and Rita</title>
+      <link>https://devnall.io/blog/sec/rita-zeek-rpi4/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/sec/rita-zeek-rpi4/</guid>
+      <description>How to use a Raspberry PI 4 as a Network Sensor with Zeek and Rita The original idea can be found at the following:</description>
+    </item>
+    
+    <item>
       <title>Getting Started with Hugo</title>
       <link>https://devnall.io/blog/hugo/getting-started/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
