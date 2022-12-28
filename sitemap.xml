@@ -65,6 +65,12 @@
     <loc>https://devnall.io/tags/mobile/</loc>
     <lastmod>2022-12-24T18:19:25+06:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/series/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/useful-ssh/</loc>
+    <lastmod>2022-12-24T18:19:25+06:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/categories/vcode/</loc>
     <lastmod>2022-12-24T10:35:49+00:00</lastmod>
   </url><url>
@@ -95,6 +101,9 @@
     <loc>https://devnall.io/blog/linux/ssh/proxy/</loc>
     <lastmod>2022-12-14T21:18:58+06:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/archive/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/blog/hugo/getting-started/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
   </url><url>
@@ -103,6 +112,8 @@
   </url><url>
     <loc>https://devnall.io/tags/golang/</loc>
     <lastmod>2021-01-24T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/2022/12/</loc>
   </url><url>
     <loc>https://devnall.io/about/</loc>
   </url><url>
@@ -114,8 +125,6 @@
   </url><url>
     <loc>https://devnall.io/search/</loc>
   </url><url>
-    <loc>https://devnall.io/series/</loc>
-  </url><url>
-    <loc>https://devnall.io/year/</loc>
+    <loc>https://devnall.io/years/</loc>
   </url>
 </urlset>

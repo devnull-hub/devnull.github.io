@@ -5,6 +5,16 @@
     <link>https://devnall.io/year/</link>
     <description>Recent content in Year on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://devnall.io/year/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Dec 2022 18:19:25 +0600</lastBuildDate><atom:link href="https://devnall.io/year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022</title>
+      <link>https://devnall.io/post/2022/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/post/2022/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
