@@ -6,22 +6,103 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 18:19:00 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hugo</title>
-      <link>https://devnall.io/tags/hugo/</link>
-      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      <title>git</title>
+      <link>https://devnall.io/tags/git/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
       
-      <guid>https://devnall.io/tags/hugo/</guid>
+      <guid>https://devnall.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://devnall.io/tags/github/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitoops</title>
+      <link>https://devnall.io/tags/gitoops/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/gitoops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitops</title>
+      <link>https://devnall.io/tags/gitops/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/gitops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certbot</title>
+      <link>https://devnall.io/tags/certbot/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/certbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encrypt</title>
+      <link>https://devnall.io/tags/encrypt/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/encrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>letsencrypt</title>
+      <link>https://devnall.io/tags/letsencrypt/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/letsencrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://devnall.io/tags/nginx/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://devnall.io/tags/ssl/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
       <link>https://devnall.io/tags/web/</link>
-      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
       
       <guid>https://devnall.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://devnall.io/tags/hugo/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -49,15 +130,6 @@
       <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
       
       <guid>https://devnall.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://devnall.io/tags/git/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://devnall.io/tags/git/</guid>
       <description></description>
     </item>
     

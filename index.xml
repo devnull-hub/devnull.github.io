@@ -6,7 +6,27 @@
     <description>Recent content on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 09:10:14 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 18:19:00 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write Better Commit Messages</title>
+      <link>https://devnall.io/blog/git/commit-msg/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/git/commit-msg/</guid>
+      <description>GIT OOPS! QuestionYep&amp;hellip; I have absolutely no idea what I meant by &amp;lsquo;Fix foobar&amp;rsquo; 6 months ago.Trying to write better commits fixed bug on landing page vs.</description>
+    </item>
+    
+    <item>
+      <title>Let’s Encrypt Wildcard Certifications</title>
+      <link>https://devnall.io/web/certbot/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/web/certbot/</guid>
+      <description>Let’s Encrypt Wildcard Certifications Assuming Debian based OS
+Step 1. Install certbot APT Get the latest version certbot.
+Update apt package manager and applications.</description>
+    </item>
+    
     <item>
       <title>Modify Themes Hugo</title>
       <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
@@ -125,7 +145,7 @@ Understanding Reverse SSH Tunnels Service on local computer that is running on p
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devnall.io/about/</guid>
-      <description>I architect, implement, administer and troubleshoot servers, network, storage and infrastructure devices local and cloud-based with an interest in DevSecOps. I write about things I am familiar with, things I am learning, and the things that I have had to understand in order to help others understand.</description>
+      <description>This blog is brought to you by an Infrastructure IT Consultant. The goal of this content is to create easy to understand posts about creating complicated projects so anyone can follow them like a recipe and to help capture my ideas and thoughts.</description>
     </item>
     
     <item>
