@@ -19,7 +19,7 @@
     <item>
       <title>Hugo Static Blog Site Github</title>
       <link>https://devnall.io/blog/hugo/initial-setup/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      <pubDate>Fri, 24 Dec 2021 18:19:25 +0000</pubDate>
       
       <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
       <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>

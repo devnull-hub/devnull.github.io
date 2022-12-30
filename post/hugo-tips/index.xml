@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Tips on devnall |  Personal Blog</title>
+    <link>https://devnall.io/post/hugo-tips/</link>
+    <description>Recent content in Hugo Tips on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 09:46:35 +0000</lastBuildDate><atom:link href="https://devnall.io/post/hugo-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add a Last Modified Date in Hugo Articles</title>
+      <link>https://devnall.io/blog/hugo/tips/lastmod-date/</link>
+      <pubDate>Thu, 29 Dec 2022 09:46:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/lastmod-date/</guid>
+      <description>Add a Last Modified Date in Hugo Articles Add date data to our Hugo posts
+Last Modified Last Updated Edited Conditionally render a Last Modified date in the single.</description>
+    </item>
+    
+    <item>
+      <title>Modify Themes Hugo</title>
+      <link>https://devnall.io/blog/hugo/tips/mod-theme/</link>
+      <pubDate>Mon, 26 Dec 2022 09:10:14 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/mod-theme/</guid>
+      <description>How to modify themes Hugo Use non-destructive practice for Hugo themes. Hugo is designed for customization and follows a site generation workflow that works a lot like layers in photo editing software.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Adding Custom Notices</title>
+      <link>https://devnall.io/blog/hugo/tips/custom-notices/</link>
+      <pubDate>Mon, 26 Dec 2022 08:18:58 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/custom-notices/</guid>
+      <description>Hugo Adding Custom Notices WarningMight be batter way to complete this with out destroying theme.Modify Themes Hugo How to modify themes for Hugo</description>
+    </item>
+    
+    <item>
+      <title>Hugo Content Organization</title>
+      <link>https://devnall.io/blog/hugo/tips/content-org/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/content-org/</guid>
+      <description>Content Organization Trying to find a good way to organize content and this looks like this could be completed with Page Bundles.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Improve Usability</title>
+      <link>https://devnall.io/blog/hugo/tips/site-info/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/site-info/</guid>
+      <description>Make Site More Informative Add Reading Time to current theme.
+Add Reading Time to list Page Showing Reading Time is a great addition, by helping visitors to decide if the article is interesting enough to read.</description>
+    </item>
+    
+  </channel>
+</rss>

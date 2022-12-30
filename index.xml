@@ -6,7 +6,17 @@
     <description>Recent content on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 18:19:00 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 09:46:35 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add a Last Modified Date in Hugo Articles</title>
+      <link>https://devnall.io/blog/hugo/tips/lastmod-date/</link>
+      <pubDate>Thu, 29 Dec 2022 09:46:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/lastmod-date/</guid>
+      <description>Add a Last Modified Date in Hugo Articles Add date data to our Hugo posts
+Last Modified Last Updated Edited Conditionally render a Last Modified date in the single.</description>
+    </item>
+    
     <item>
       <title>Write Better Commit Messages</title>
       <link>https://devnall.io/blog/git/commit-msg/</link>
@@ -28,7 +38,7 @@
     <item>
       <title>Hugo Adding Custom Notices</title>
       <link>https://devnall.io/blog/hugo/tips/custom-notices/</link>
-      <pubDate>Mon, 26 Dec 2022 08:18:58 +0600</pubDate>
+      <pubDate>Mon, 26 Dec 2022 08:18:58 +0000</pubDate>
       
       <guid>https://devnall.io/blog/hugo/tips/custom-notices/</guid>
       <description>Hugo Adding Custom Notices WarningMight be batter way to complete this with out destroying theme.Modify Themes Hugo How to modify themes for Hugo</description>
@@ -37,7 +47,7 @@
     <item>
       <title>Hugo Content Organization</title>
       <link>https://devnall.io/blog/hugo/tips/content-org/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
       
       <guid>https://devnall.io/blog/hugo/tips/content-org/</guid>
       <description>Content Organization Trying to find a good way to organize content and this looks like this could be completed with Page Bundles.</description>
@@ -46,7 +56,7 @@
     <item>
       <title>Hugo Improve Usability</title>
       <link>https://devnall.io/blog/hugo/tips/site-info/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
       
       <guid>https://devnall.io/blog/hugo/tips/site-info/</guid>
       <description>Make Site More Informative Add Reading Time to current theme.
@@ -56,20 +66,11 @@ Add Reading Time to list Page Showing Reading Time is a great addition, by helpi
     <item>
       <title>Hugo running on Android</title>
       <link>https://devnall.io/blog/hugo/android/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
       
       <guid>https://devnall.io/blog/hugo/android/</guid>
       <description>Hugo Running on Android Assumption turmux already installed.
 Termux on Android needs to be install. Use apt or pkg to install hugo.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Static Blog Site Github</title>
-      <link>https://devnall.io/blog/hugo/initial-setup/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0600</pubDate>
-      
-      <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
-      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>
     </item>
     
     <item>
@@ -117,6 +118,15 @@ Understanding Reverse SSH Tunnels Service on local computer that is running on p
       
       <guid>https://devnall.io/archive/</guid>
       <description> All posts Posts by Tag Posts in Series Posts by Year </description>
+    </item>
+    
+    <item>
+      <title>Hugo Static Blog Site Github</title>
+      <link>https://devnall.io/blog/hugo/initial-setup/</link>
+      <pubDate>Fri, 24 Dec 2021 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
+      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>
     </item>
     
     <item>
