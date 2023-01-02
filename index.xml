@@ -6,7 +6,16 @@
     <description>Recent content on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2022 09:46:35 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 12:00:38 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Share on LinkedIn Image Metadata</title>
+      <link>https://devnall.io/blog/hugo/tips/image_metadata/with/</link>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/tips/image_metadata/with/</guid>
+      <description>Share on LinkedIn Image Metadata If you would like people to be able to share site&amp;rsquo;s content on LinkedIn, the source code on your site needs to comply Open Graph Protocol (OGP).</description>
+    </item>
+    
     <item>
       <title>Add a Last Modified Date in Hugo Articles</title>
       <link>https://devnall.io/blog/hugo/tips/lastmod-date/</link>

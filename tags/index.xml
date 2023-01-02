@@ -6,20 +6,47 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2022 09:46:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 12:00:38 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>android</title>
+      <link>https://devnall.io/tags/android/</link>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://devnall.io/tags/hugo/</link>
-      <pubDate>Thu, 29 Dec 2022 09:46:35 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>mobile</title>
+      <link>https://devnall.io/tags/mobile/</link>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ogp</title>
+      <link>https://devnall.io/tags/ogp/</link>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/ogp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>web</title>
       <link>https://devnall.io/tags/web/</link>
-      <pubDate>Thu, 29 Dec 2022 09:46:35 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/tags/web/</guid>
       <description></description>
@@ -58,24 +85,6 @@
       <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
       
       <guid>https://devnall.io/tags/gitops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>android</title>
-      <link>https://devnall.io/tags/android/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mobile</title>
-      <link>https://devnall.io/tags/mobile/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/mobile/</guid>
       <description></description>
     </item>
     
