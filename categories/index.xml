@@ -6,13 +6,13 @@
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 12:00:38 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 15:55:19 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>android</title>
-      <link>https://devnall.io/categories/android/</link>
-      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      <title>vcode</title>
+      <link>https://devnall.io/categories/vcode/</link>
+      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
       
-      <guid>https://devnall.io/categories/android/</guid>
+      <guid>https://devnall.io/categories/vcode/</guid>
       <description></description>
     </item>
     
@@ -53,20 +53,20 @@
     </item>
     
     <item>
+      <title>android</title>
+      <link>https://devnall.io/categories/android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>markdown</title>
       <link>https://devnall.io/categories/markdown/</link>
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
       
       <guid>https://devnall.io/categories/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vcode</title>
-      <link>https://devnall.io/categories/vcode/</link>
-      <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/vcode/</guid>
       <description></description>
     </item>
     

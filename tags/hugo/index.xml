@@ -6,7 +6,17 @@
     <description>Recent content in hugo on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 12:00:38 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 15:55:19 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VScode Automating Creation Folder and Files</title>
+      <link>https://devnall.io/blog/vscode/folder-temp/</link>
+      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/vscode/folder-temp/</guid>
+      <description>VS-Code Folder Templates Because creating the same directories over and over again is annoying to do manually.- Huuums
+Automation&amp;hellip;automation!!! We are always trying to improve things through automation.</description>
+    </item>
+    
     <item>
       <title>Hugo Share on LinkedIn Image Metadata</title>
       <link>https://devnall.io/blog/hugo/tips/image_metadata/with/</link>

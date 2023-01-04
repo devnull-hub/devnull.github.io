@@ -6,22 +6,31 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 12:00:38 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 15:55:19 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>android</title>
-      <link>https://devnall.io/tags/android/</link>
-      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      <title>automation</title>
+      <link>https://devnall.io/tags/automation/</link>
+      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
       
-      <guid>https://devnall.io/tags/android/</guid>
+      <guid>https://devnall.io/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
       <link>https://devnall.io/tags/hugo/</link>
-      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
       
       <guid>https://devnall.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vscode</title>
+      <link>https://devnall.io/tags/vscode/</link>
+      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/vscode/</guid>
       <description></description>
     </item>
     
@@ -98,6 +107,15 @@
     </item>
     
     <item>
+      <title>android</title>
+      <link>https://devnall.io/tags/android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>draw.io</title>
       <link>https://devnall.io/tags/draw.io/</link>
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
@@ -130,15 +148,6 @@
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
       
       <guid>https://devnall.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vscode</title>
-      <link>https://devnall.io/tags/vscode/</link>
-      <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/vscode/</guid>
       <description></description>
     </item>
     
