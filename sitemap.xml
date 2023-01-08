@@ -6,16 +6,19 @@
     <lastmod>2023-01-03T15:55:19+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/hugo/</loc>
     <lastmod>2023-01-03T15:55:19+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/series/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/tags/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/vcode/</loc>
     <lastmod>2023-01-03T15:55:19+00:00</lastmod>
@@ -23,11 +26,14 @@
     <loc>https://devnall.io/tags/vscode/</loc>
     <lastmod>2023-01-03T15:55:19+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/post/vscode/</loc>
+    <lastmod>2023-01-03T15:55:19+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/blog/vscode/folder-temp/</loc>
     <lastmod>2023-01-03T15:55:19+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/hugo/</loc>
-    <lastmod>2023-01-02T12:00:38+00:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo/tips/image_metadata/with/</loc>
     <lastmod>2023-01-02T12:00:38+00:00</lastmod>
@@ -48,37 +54,34 @@
     <lastmod>2022-12-30T11:00:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/post/hugo-tips/</loc>
-    <lastmod>2022-12-30T11:00:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/series/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/web/</loc>
-    <lastmod>2022-12-30T11:00:35+00:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/git/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/git/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/git/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/github/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/github/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/gitoops/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/gitops/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/post/learning-gitops/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/git/commit-msg/</loc>
-    <lastmod>2022-12-31T13:58:59-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo/tips/mod-theme/</loc>
     <lastmod>2022-12-27T08:18:58+00:00</lastmod>
@@ -90,9 +93,6 @@
     <lastmod>2022-12-25T08:18:58+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/android/</loc>
-    <lastmod>2022-12-25T08:18:58+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/post/building-your-blog-the-geeky-way/</loc>
     <lastmod>2022-12-25T08:18:58+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo/tips/content-org/</loc>
@@ -123,85 +123,88 @@
     <lastmod>2022-12-29T09:35:49+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/linux/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/linux/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/ssh/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/ssh/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/ssh/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/linux/ssh/reverse/</loc>
-    <lastmod>2022-12-27T13:58:40-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/linux/ssh/tunnel/</loc>
-    <lastmod>2022-12-26T21:36:29-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/linux/ssh/proxy/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/post/useful-ssh/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/archive/</loc>
-    <lastmod>2022-12-27T17:24:17-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/development/</loc>
-    <lastmod>2022-12-27T08:18:58+00:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo/initial-setup/</loc>
     <lastmod>2022-12-27T08:18:58+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/activecountermeasures/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/sec/rita-zeek-rpi4/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/network/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/networking/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/pi/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/rita/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/rita/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/rpi/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/security/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/security/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/security/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/tap/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/zeek/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/zeek/</loc>
-    <lastmod>2023-01-05T09:01:56-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo/getting-started/</loc>
-    <lastmod>2022-12-25T17:42:46-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/go/</loc>
-    <lastmod>2022-12-25T17:42:46-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/golang/</loc>
-    <lastmod>2022-12-25T17:42:46-07:00</lastmod>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/bak.archives/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://devnall.io/post/2021/02/</loc>
   </url><url>
@@ -223,7 +226,7 @@
     <loc>https://devnall.io/month/</loc>
   </url><url>
     <loc>https://devnall.io/privacy-policy/</loc>
-    <lastmod>2022-12-23T22:15:19-07:00</lastmod>
+    <lastmod>2023-01-06T07:54:16-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/search/</loc>
     <lastmod>2022-12-23T22:15:19-07:00</lastmod>

@@ -54,5 +54,33 @@ Last Modified Last Updated Edited Conditionally render a Last Modified date in t
 Add Reading Time to list Page Showing Reading Time is a great addition, by helping visitors to decide if the article is interesting enough to read.</description>
     </item>
     
+    <item>
+      <title>Hugo running on Android</title>
+      <link>https://devnall.io/blog/hugo/android/</link>
+      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/android/</guid>
+      <description>Hugo Running on Android Assumption turmux already installed.
+Termux on Android needs to be install. Use apt or pkg to install hugo.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Static Blog Site Github</title>
+      <link>https://devnall.io/blog/hugo/initial-setup/</link>
+      <pubDate>Fri, 24 Dec 2021 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/initial-setup/</guid>
+      <description>Hugo Setup with git This blog content is generated with Hugo static site generator and integrated with GitHub Pages. This post will step cover publishing and pushing the newest content to GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://devnall.io/blog/hugo/getting-started/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://devnall.io/blog/hugo/getting-started/</guid>
+      <description>Hugo static HTML and CSS website generator Hugo is a static HTML and CSS website generator written in Go and edited in markdown.</description>
+    </item>
+    
   </channel>
 </rss>
