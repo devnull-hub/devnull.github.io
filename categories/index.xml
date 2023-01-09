@@ -6,7 +6,34 @@
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 15:55:19 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 17:02:36 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://devnall.io/categories/devops/</link>
+      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://devnall.io/categories/docker/</link>
+      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://devnall.io/categories/linux/</link>
+      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>vcode</title>
       <link>https://devnall.io/categories/vcode/</link>
@@ -67,15 +94,6 @@
       <pubDate>Sat, 24 Dec 2022 10:35:49 +0000</pubDate>
       
       <guid>https://devnall.io/categories/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://devnall.io/categories/linux/</link>
-      <pubDate>Wed, 14 Dec 2022 22:21:00 +0600</pubDate>
-      
-      <guid>https://devnall.io/categories/linux/</guid>
       <description></description>
     </item>
     

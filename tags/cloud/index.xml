@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on devnall |  Personal Blog</title>
+    <link>https://devnall.io/tags/cloud/</link>
+    <description>Recent content in cloud on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 17:02:36 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker MacVLAN Networks</title>
+      <link>https://devnall.io/blog/devops/docker/networking/macvlan/</link>
+      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/docker/networking/macvlan/</guid>
+      <description>MacVLAN MacVLAN configures a sub-interfaces (also known as slave devices) of a parent physical Ethernet interface with its own unique MAC address and as a result with its own IP address.</description>
+    </item>
+    
+    <item>
+      <title>Docker IPvlan Networks</title>
+      <link>https://devnall.io/blog/devops/docker/networking/ipvlan/</link>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/docker/networking/ipvlan/</guid>
+      <description>Use IPvlan networks IPvlan driver gives control over both IPv4 and IPv6 addressing. The VLAN driver gives administrators control of layer 2 VLAN tagging and even IPvlan L3 routing for use of direct network integration.</description>
+    </item>
+    
+    <item>
+      <title>Docker Networking Overview</title>
+      <link>https://devnall.io/blog/devops/docker/networking/overview/</link>
+      <pubDate>Sat, 07 Jan 2023 12:25:54 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/docker/networking/overview/</guid>
+      <description>Docker Networking Overview In this post defines some basic Docker networking concepts.
+Network drivers Docker’s networking subsystem is pluggable, using drivers.</description>
+    </item>
+    
+  </channel>
+</rss>
