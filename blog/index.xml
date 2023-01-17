@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://devnall.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker MacVLAN Networks</title>
-      <link>https://devnall.io/blog/devops/docker/networking/macvlan/</link>
-      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      <title>Mobile App Automation</title>
+      <link>https://devnall.io/blog/devops/python/appium/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
       
-      <guid>https://devnall.io/blog/devops/docker/networking/macvlan/</guid>
-      <description>MacVLAN MacVLAN configures a sub-interfaces (also known as slave devices) of a parent physical Ethernet interface with its own unique MAC address and as a result with its own IP address.</description>
+      <guid>https://devnall.io/blog/devops/python/appium/</guid>
+      <description>Setup Appium &amp;amp; Android Studio Windows Every app needs to be tested if they get updated frequently these use cases should be automated.</description>
+    </item>
+    
+    <item>
+      <title>Set JAVA_HOME environment variable on Windows 10</title>
+      <link>https://devnall.io/blog/devops/java-setup/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/java-setup/</guid>
+      <description>Java Setup Install JDK and set JAVA_HOME Download the Java Development Kit (JDK)
+Then double click the JDK and follow all the installation steps.</description>
     </item>
     
     <item>
@@ -32,6 +42,15 @@
       <guid>https://devnall.io/blog/devops/docker/networking/overview/</guid>
       <description>Docker Networking Overview In this post defines some basic Docker networking concepts.
 Network drivers Docker’s networking subsystem is pluggable, using drivers.</description>
+    </item>
+    
+    <item>
+      <title>Docker MacVLAN Networks</title>
+      <link>https://devnall.io/blog/devops/docker/networking/macvlan/</link>
+      <pubDate>Fri, 06 Jan 2023 14:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/docker/networking/macvlan/</guid>
+      <description>MacVLAN MacVLAN configures a sub-interfaces (also known as slave devices) of a parent physical Ethernet interface with its own unique MAC address and as a result with its own IP address.</description>
     </item>
     
     <item>

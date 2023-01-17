@@ -1,0 +1,28 @@
+version: '2'
+
+services:
+  container1:
+    image: alpine
+    container_name: container1
+    restart: unless-stopped
+    tty: true
+    networks:
+      - db_net
+
+  container2:
+    image: alpine
+    container_name: container2
+    tty: true
+    networks:
+      - db_net
+
+networks:
+  db_net:
+    driver: ipvlan
+    driver_opts:
+      ipvlan_mode: l2
+      parent: eth0
+    ipam:
+      config:
+      - subnet: 192.168.1.0/24
+        gateway: 192.168.1.1

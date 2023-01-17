@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appium on devnall |  Personal Blog</title>
+    <link>https://devnall.io/post/appium/</link>
+    <description>Recent content in Appium on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/post/appium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile App Automation</title>
+      <link>https://devnall.io/blog/devops/python/appium/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/python/appium/</guid>
+      <description>Setup Appium &amp;amp; Android Studio Windows Every app needs to be tested if they get updated frequently these use cases should be automated.</description>
+    </item>
+    
+    <item>
+      <title>Set JAVA_HOME environment variable on Windows 10</title>
+      <link>https://devnall.io/blog/devops/java-setup/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/java-setup/</guid>
+      <description>Java Setup Install JDK and set JAVA_HOME Download the Java Development Kit (JDK)
+Then double click the JDK and follow all the installation steps.</description>
+    </item>
+    
+  </channel>
+</rss>

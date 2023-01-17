@@ -6,11 +6,47 @@
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 17:02:36 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>android</title>
+      <link>https://devnall.io/categories/android/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>appium</title>
+      <link>https://devnall.io/categories/appium/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/appium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://devnall.io/categories/python/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://devnall.io/categories/windows/</link>
+      <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/windows/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>devops</title>
       <link>https://devnall.io/categories/devops/</link>
-      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
       
       <guid>https://devnall.io/categories/devops/</guid>
       <description></description>
@@ -19,7 +55,7 @@
     <item>
       <title>docker</title>
       <link>https://devnall.io/categories/docker/</link>
-      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
       
       <guid>https://devnall.io/categories/docker/</guid>
       <description></description>
@@ -28,7 +64,7 @@
     <item>
       <title>linux</title>
       <link>https://devnall.io/categories/linux/</link>
-      <pubDate>Sun, 08 Jan 2023 17:02:36 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
       
       <guid>https://devnall.io/categories/linux/</guid>
       <description></description>
@@ -76,15 +112,6 @@
       <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
       
       <guid>https://devnall.io/categories/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>android</title>
-      <link>https://devnall.io/categories/android/</link>
-      <pubDate>Sat, 24 Dec 2022 18:19:25 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/android/</guid>
       <description></description>
     </item>
     
