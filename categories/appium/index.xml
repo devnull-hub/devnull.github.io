@@ -6,7 +6,18 @@
     <description>Recent content in appium on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/appium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 11:00:35 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/appium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appium Desktop Inspector – Part 1</title>
+      <link>https://devnall.io/blog/devops/python/appium/inspector-pt1/</link>
+      <pubDate>Mon, 16 Jan 2023 11:00:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/python/appium/inspector-pt1/</guid>
+      <description>Steps to get started Launch Android Studio run Virtual Device Manager
+Create Device if one already does not exist.
+Choose Hardware</description>
+    </item>
+    
     <item>
       <title>Android Studio &amp; Android SDKs</title>
       <link>https://devnall.io/blog/android/sdk/</link>
@@ -19,10 +30,10 @@ Android Studio is the official IDE (Integrated Development Environment) for Andr
     
     <item>
       <title>Mobile App Automation</title>
-      <link>https://devnall.io/blog/devops/python/appium/</link>
+      <link>https://devnall.io/blog/devops/python/appium/setup/</link>
       <pubDate>Fri, 13 Jan 2023 10:35:35 +0000</pubDate>
       
-      <guid>https://devnall.io/blog/devops/python/appium/</guid>
+      <guid>https://devnall.io/blog/devops/python/appium/setup/</guid>
       <description>Setup Appium &amp;amp; Android Studio Windows Every app needs to be tested if they get updated frequently these use cases should be automated.</description>
     </item>
     
