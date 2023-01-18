@@ -6,14 +6,23 @@
     <description>Recent content in appium on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jan 2023 13:00:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/appium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 09:00:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/appium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Automation Android Calculator</title>
+      <link>https://devnall.io/blog/devops/python/appium/use-case/</link>
+      <pubDate>Tue, 17 Jan 2023 09:00:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/python/appium/use-case/</guid>
+      <description>Getting Started In the last post Appium Desktop Inspector – Part 2 we successfully used Appium Desktop Inspector to inspect elements to use for automating Android apps.</description>
+    </item>
+    
     <item>
       <title>Appium Desktop Inspector – Part 2</title>
       <link>https://devnall.io/blog/devops/python/appium/inspector-pt2/</link>
       <pubDate>Mon, 16 Jan 2023 13:00:35 +0000</pubDate>
       
       <guid>https://devnall.io/blog/devops/python/appium/inspector-pt2/</guid>
-      <description>Steps to get started In the last post Appium Desktop Inspector – Part 1 we successfully launched Appium Desktop Inspector in this post will cover the mobile inspection to gather Object Hierarchy Dump for automating our Python script.</description>
+      <description>Getting Started In the last post Appium Desktop Inspector – Part 1 we successfully launched Appium Desktop Inspector in this post will cover the mobile inspection to gather Object Hierarchy Dump for automating our Python script.</description>
     </item>
     
     <item>
@@ -22,9 +31,10 @@
       <pubDate>Mon, 16 Jan 2023 11:00:35 +0000</pubDate>
       
       <guid>https://devnall.io/blog/devops/python/appium/inspector-pt1/</guid>
-      <description>Steps to get started Launch Android Studio run Virtual Device Manager
+      <description>Getting Started Launch Android Studio run Virtual Device Manager
 Create Device if one already does not exist.
-Choose Hardware</description>
+Choose Hardware
+Choose System Android Image Version</description>
     </item>
     
     <item>
