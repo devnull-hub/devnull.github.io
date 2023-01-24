@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on devnall |  Personal Blog</title>
+    <link>https://devnall.io/tags/aws/</link>
+    <description>Recent content in aws on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup Static Website AWS CLI</title>
+      <link>https://devnall.io/blog/cloud/aws/static-web/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/cloud/aws/static-web/</guid>
+      <description>Getting Started Amazon Simple Storage Service (Amazon S3) is an cloud based object storage device. It is a low cost storage widely used for the backup or static website content.</description>
+    </item>
+    
+  </channel>
+</rss>

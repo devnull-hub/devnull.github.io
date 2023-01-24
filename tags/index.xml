@@ -6,7 +6,52 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jan 2023 09:00:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws</title>
+      <link>https://devnall.io/tags/aws/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cli</title>
+      <link>https://devnall.io/tags/cli/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://devnall.io/tags/cloud/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://devnall.io/tags/hugo/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://devnall.io/tags/web/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>android</title>
       <link>https://devnall.io/tags/android/</link>
@@ -49,15 +94,6 @@
       <pubDate>Tue, 17 Jan 2023 09:00:35 +0000</pubDate>
       
       <guid>https://devnall.io/tags/windows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud</title>
-      <link>https://devnall.io/tags/cloud/</link>
-      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/cloud/</guid>
       <description></description>
     </item>
     
@@ -107,15 +143,6 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://devnall.io/tags/hugo/</link>
-      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>vscode</title>
       <link>https://devnall.io/tags/vscode/</link>
       <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
@@ -139,15 +166,6 @@
       <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/tags/ogp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://devnall.io/tags/web/</link>
-      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/web/</guid>
       <description></description>
     </item>
     
