@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Backup Website to Amazon S3 Shell Script</title>
+      <link>https://devnall.io/blog/linux/scripts/backup-website-aws/</link>
+      <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/linux/scripts/backup-website-aws/</guid>
+      <description>Getting Started Amazon Simple Storage Service (Amazon S3) is an cloud based object storage device. It is a low cost storage widely used for the backup or static website content.</description>
+    </item>
+    
+    <item>
       <title>Setup Static Website AWS CLI</title>
       <link>https://devnall.io/blog/cloud/aws/static-web/</link>
       <pubDate>Mon, 23 Jan 2023 10:35:35 +0000</pubDate>
