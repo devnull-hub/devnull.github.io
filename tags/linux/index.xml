@@ -6,7 +6,34 @@
     <description>Recent content in linux on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jan 2023 14:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Rsync Commands </title>
+      <link>https://devnall.io/blog/linux/sysadmin/rsync/ex/</link>
+      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/linux/sysadmin/rsync/ex/</guid>
+      <description>Introduction Rsync, or Remote Sync, is a free command-line tool that lets you transfer files and directories to local and remote destinations.</description>
+    </item>
+    
+    <item>
+      <title>Docker Use Bridge Networks</title>
+      <link>https://devnall.io/blog/devops/docker/networking/bridge/</link>
+      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/docker/networking/bridge/</guid>
+      <description>Use Bridge Networks Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
+    </item>
+    
+    <item>
+      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
+      <link>https://devnall.io/blog/devops/build-srv/</link>
+      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/build-srv/</guid>
+      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
+    </item>
+    
     <item>
       <title>Docker IPvlan Networks</title>
       <link>https://devnall.io/blog/devops/docker/networking/ipvlan/</link>
@@ -33,6 +60,15 @@ Network drivers Docker’s networking subsystem is pluggable, using drivers.</de
       
       <guid>https://devnall.io/blog/devops/docker/networking/macvlan/</guid>
       <description>MacVLAN MacVLAN configures a sub-interfaces (also known as slave devices) of a parent physical Ethernet interface with its own unique MAC address and as a result with its own IP address.</description>
+    </item>
+    
+    <item>
+      <title>Docker Use Host Networks</title>
+      <link>https://devnall.io/blog/devops/docker/networking/host/</link>
+      <pubDate>Tue, 03 Jan 2023 09:32:57 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/docker/networking/host/</guid>
+      <description>Host Networking Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
     </item>
     
     <item>

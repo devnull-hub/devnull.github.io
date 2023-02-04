@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Rsync</title>
+      <link>https://devnall.io/post/rsync/</link>
+      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/post/rsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Appium</title>
       <link>https://devnall.io/post/appium/</link>
       <pubDate>Tue, 17 Jan 2023 09:00:35 +0000</pubDate>
@@ -26,11 +35,29 @@
     </item>
     
     <item>
+      <title>Draft</title>
+      <link>https://devnall.io/post/draft/</link>
+      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
+      
+      <guid>https://devnall.io/post/draft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker Networking</title>
       <link>https://devnall.io/post/docker-networking/</link>
-      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
+      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
       
       <guid>https://devnall.io/post/docker-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure As Code</title>
+      <link>https://devnall.io/post/infrastructure-as-code/</link>
+      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/post/infrastructure-as-code/</guid>
       <description></description>
     </item>
     
@@ -58,6 +85,15 @@
       <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
       
       <guid>https://devnall.io/post/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WEB SSL</title>
+      <link>https://devnall.io/post/web-ssl/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/post/web-ssl/</guid>
       <description></description>
     </item>
     

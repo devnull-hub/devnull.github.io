@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on devnall |  Personal Blog</title>
+    <link>https://devnall.io/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
+      <link>https://devnall.io/blog/devops/build-srv/</link>
+      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/build-srv/</guid>
+      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
+    </item>
+    
+  </channel>
+</rss>

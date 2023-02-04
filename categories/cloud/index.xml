@@ -25,5 +25,14 @@
       <description>Getting Started Amazon Simple Storage Service (Amazon S3) is an cloud based object storage device. It is a low cost storage widely used for the backup or static website content.</description>
     </item>
     
+    <item>
+      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
+      <link>https://devnall.io/blog/devops/build-srv/</link>
+      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/build-srv/</guid>
+      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
+    </item>
+    
   </channel>
 </rss>

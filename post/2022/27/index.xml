@@ -15,5 +15,16 @@
       <description>GIT OOPS! QuestionYep&amp;hellip; I have absolutely no idea what I meant by &amp;lsquo;Fix foobar&amp;rsquo; 6 months ago.Trying to write better commits fixed bug on landing page vs.</description>
     </item>
     
+    <item>
+      <title>Let’s Encrypt Wildcard Certifications</title>
+      <link>https://devnall.io/blog/web/certbot/</link>
+      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/web/certbot/</guid>
+      <description>Let’s Encrypt Wildcard Certifications Assuming Debian based OS
+Step 1. Install certbot APT Get the latest version certbot.
+Update apt package manager and applications.</description>
+    </item>
+    
   </channel>
 </rss>

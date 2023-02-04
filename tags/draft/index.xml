@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>draft on devnall |  Personal Blog</title>
+    <link>https://devnall.io/tags/draft/</link>
+    <description>Recent content in draft on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jan 2023 15:57:52 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jenkins</title>
+      <link>https://devnall.io/blog/git/gitea/jenkins/</link>
+      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/git/gitea/jenkins/</guid>
+      <description>Heading Summary Next in the Series: Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>https://devnall.io/blog/git/gitea/setup/</link>
+      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/git/gitea/setup/</guid>
+      <description>Heading Summary Next in the Series: Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
+    </item>
+    
+  </channel>
+</rss>

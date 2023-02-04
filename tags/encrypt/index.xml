@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 27 Dec 2022 18:00:01 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/encrypt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let’s Encrypt Wildcard Certifications</title>
-      <link>https://devnall.io/web/certbot/</link>
+      <link>https://devnall.io/blog/web/certbot/</link>
       <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
       
-      <guid>https://devnall.io/web/certbot/</guid>
+      <guid>https://devnall.io/blog/web/certbot/</guid>
       <description>Let’s Encrypt Wildcard Certifications Assuming Debian based OS
 Step 1. Install certbot APT Get the latest version certbot.
 Update apt package manager and applications.</description>

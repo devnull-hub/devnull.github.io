@@ -66,5 +66,14 @@ Android Studio is the official IDE (Integrated Development Environment) for Andr
 Then double click the JDK and follow all the installation steps.</description>
     </item>
     
+    <item>
+      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
+      <link>https://devnall.io/blog/devops/build-srv/</link>
+      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/devops/build-srv/</guid>
+      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
+    </item>
+    
   </channel>
 </rss>

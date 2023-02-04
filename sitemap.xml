@@ -47,6 +47,30 @@
     <loc>https://devnall.io/tags/web/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/tags/commands/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/commands/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/linux/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/linux/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/linux/sysadmin/rsync/ex/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/rsync/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/rsync/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/rsync/</loc>
+    <lastmod>2023-01-23T10:35:35+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/tags/android/</loc>
     <lastmod>2023-01-17T13:00:35+00:00</lastmod>
   </url><url>
@@ -95,6 +119,21 @@
     <loc>https://devnall.io/blog/devops/java-setup/</loc>
     <lastmod>2023-01-14T10:35:35+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/tags/draft/</loc>
+    <lastmod>2023-01-09T15:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/draft/</loc>
+    <lastmod>2023-01-09T15:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/draft/</loc>
+    <lastmod>2023-01-09T15:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/git/gitea/jenkins/</loc>
+    <lastmod>2023-01-09T15:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/git/gitea/setup/</loc>
+    <lastmod>2023-01-09T15:57:52+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/tags/devops/</loc>
     <lastmod>2023-01-09T14:35:35+00:00</lastmod>
   </url><url>
@@ -104,22 +143,70 @@
     <loc>https://devnall.io/tags/docker/</loc>
     <lastmod>2023-01-09T14:35:35+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/post/docker-networking/</loc>
+    <lastmod>2023-01-09T14:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/devops/docker/networking/bridge/</loc>
+    <lastmod>2023-01-08T12:32:47+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/servers/</loc>
+    <lastmod>2023-01-09T14:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/servers/</loc>
+    <lastmod>2023-01-08T12:32:47+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/ansible/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/devops/build-srv/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/devsecops/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/git/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/gitops/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/gtitea/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/iac/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/infrastructure-as-code/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/infrastructureascode/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/packer/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/rpi/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/terraform/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/ubuntu/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/vault/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/vmware/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/vmware/</loc>
+    <lastmod>2023-01-09T10:35:35+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/categories/docker/</loc>
     <lastmod>2023-01-09T14:35:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/devops/docker/networking/ipvlan/</loc>
-    <lastmod>2023-01-09T14:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/post/docker-networking/</loc>
-    <lastmod>2023-01-09T14:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/linux/</loc>
-    <lastmod>2023-01-09T14:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/categories/linux/</loc>
-    <lastmod>2023-01-09T14:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/servers/</loc>
     <lastmod>2023-01-09T14:35:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/devops/docker/networking/overview/</loc>
@@ -127,6 +214,9 @@
   </url><url>
     <loc>https://devnall.io/blog/devops/docker/networking/macvlan/</loc>
     <lastmod>2023-01-09T14:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/devops/docker/networking/host/</loc>
+    <lastmod>2023-01-03T09:32:57+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/automation/</loc>
     <lastmod>2023-01-03T15:55:19+00:00</lastmod>
@@ -146,13 +236,16 @@
     <loc>https://devnall.io/categories/hugo/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/blog/hugo/tips/image_metadata/with/</loc>
-    <lastmod>2023-01-02T12:00:38+00:00</lastmod>
-  </url><url>
     <loc>https://devnall.io/tags/mobile/</loc>
     <lastmod>2023-01-02T12:00:38+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/ogp/</loc>
+    <lastmod>2023-01-02T12:00:38+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/hugo/tips/image_metadata/without/</loc>
+    <lastmod>2023-01-02T12:00:38+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/hugo/tips/image_metadata/with/</loc>
     <lastmod>2023-01-02T12:00:38+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/webp/</loc>
@@ -165,9 +258,6 @@
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/web/</loc>
-    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/git/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/post/git/</loc>
@@ -185,10 +275,28 @@
     <loc>https://devnall.io/tags/gitoops/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/tags/gitops/</loc>
+    <loc>https://devnall.io/blog/git/commit-msg/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/blog/git/commit-msg/</loc>
+    <loc>https://devnall.io/tags/certbot/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/encrypt/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/web/certbot/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/letsencrypt/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/nginx/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/ssl/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/web-ssl/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/hugo/tips/mod-theme/</loc>
@@ -267,9 +375,6 @@
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/rita/</loc>
-    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/rpi/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/security/</loc>
