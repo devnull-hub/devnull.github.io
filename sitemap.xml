@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://devnall.io/categories/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/cli/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/robocopy/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/robocopy/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/robocopy/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/blog/windows/robocopy/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/series/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/windows/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/windows/</loc>
+    <lastmod>2023-02-11T10:35:35+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/tags/aws/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
@@ -14,13 +47,7 @@
     <loc>https://devnall.io/blog/linux/scripts/backup-website-aws/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/categories/</loc>
-    <lastmod>2023-01-27T10:35:35+00:00</lastmod>
-  </url><url>
     <loc>https://devnall.io/tags/cli/</loc>
-    <lastmod>2023-01-27T10:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/categories/cli/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/cloud/</loc>
@@ -29,20 +56,11 @@
     <loc>https://devnall.io/categories/cloud/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/</loc>
-    <lastmod>2023-01-27T10:35:35+00:00</lastmod>
-  </url><url>
     <loc>https://devnall.io/tags/hugo/</loc>
-    <lastmod>2023-01-27T10:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/series/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/cloud/aws/static-web/</loc>
     <lastmod>2023-01-24T10:35:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/</loc>
-    <lastmod>2023-01-27T10:35:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/web/</loc>
     <lastmod>2023-01-27T10:35:35+00:00</lastmod>
@@ -96,12 +114,6 @@
     <lastmod>2023-01-17T13:00:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/devops/python/appium/use-case/</loc>
-    <lastmod>2023-01-17T13:00:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/windows/</loc>
-    <lastmod>2023-01-17T13:00:35+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/categories/windows/</loc>
     <lastmod>2023-01-17T13:00:35+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/blog/devops/python/appium/inspector-pt2/</loc>
@@ -414,6 +426,8 @@
     <loc>https://devnall.io/post/2022/27/</loc>
   </url><url>
     <loc>https://devnall.io/post/2023/01/</loc>
+  </url><url>
+    <loc>https://devnall.io/post/2023/02/</loc>
   </url><url>
     <loc>https://devnall.io/about/</loc>
     <lastmod>2022-12-27T19:13:54-07:00</lastmod>

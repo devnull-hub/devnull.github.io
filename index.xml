@@ -6,7 +6,17 @@
     <description>Recent content on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robocopy Examples</title>
+      <link>https://devnall.io/blog/windows/robocopy/</link>
+      <pubDate>Fri, 10 Feb 2023 10:35:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/windows/robocopy/</guid>
+      <description>Robocopy Examples Robocopy has many command line options and it can be overwhelming to know which commands to use.
+In this post, we will take a look at how to ues robocopy to copy, mirror, purge Files and Folders.</description>
+    </item>
+    
     <item>
       <title>Backup Website to Amazon S3 Shell Script</title>
       <link>https://devnall.io/blog/linux/scripts/backup-website-aws/</link>
