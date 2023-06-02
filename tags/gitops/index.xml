@@ -6,16 +6,7 @@
     <description>Recent content in gitops on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/gitops/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
-      <link>https://devnall.io/blog/devops/build-srv/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/devops/build-srv/</guid>
-      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 27 Dec 2022 18:19:00 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/gitops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write Better Commit Messages</title>
       <link>https://devnall.io/blog/git/commit-msg/</link>

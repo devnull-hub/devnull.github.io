@@ -6,7 +6,43 @@
     <description>Recent content in Tags on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 18:19:25 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>automation</title>
+      <link>https://devnall.io/tags/automation/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://devnall.io/tags/devops/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://devnall.io/tags/linux/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhug</title>
+      <link>https://devnall.io/tags/rhug/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/rhug/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>robocopy</title>
       <link>https://devnall.io/tags/robocopy/</link>
@@ -71,33 +107,6 @@
     </item>
     
     <item>
-      <title>commands</title>
-      <link>https://devnall.io/tags/commands/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/commands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://devnall.io/tags/linux/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rsync</title>
-      <link>https://devnall.io/tags/rsync/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/rsync/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>android</title>
       <link>https://devnall.io/tags/android/</link>
       <pubDate>Tue, 17 Jan 2023 09:00:35 +0000</pubDate>
@@ -134,27 +143,9 @@
     </item>
     
     <item>
-      <title>draft</title>
-      <link>https://devnall.io/tags/draft/</link>
-      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/draft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>devops</title>
-      <link>https://devnall.io/tags/devops/</link>
-      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>docker</title>
       <link>https://devnall.io/tags/docker/</link>
-      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
       
       <guid>https://devnall.io/tags/docker/</guid>
       <description></description>
@@ -163,126 +154,9 @@
     <item>
       <title>servers</title>
       <link>https://devnall.io/tags/servers/</link>
-      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
       
       <guid>https://devnall.io/tags/servers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ansible</title>
-      <link>https://devnall.io/tags/ansible/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/ansible/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>devsecops</title>
-      <link>https://devnall.io/tags/devsecops/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/devsecops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://devnall.io/tags/git/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gitops</title>
-      <link>https://devnall.io/tags/gitops/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/gitops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gtitea</title>
-      <link>https://devnall.io/tags/gtitea/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/gtitea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>infrastructureascode</title>
-      <link>https://devnall.io/tags/infrastructureascode/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/infrastructureascode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>packer</title>
-      <link>https://devnall.io/tags/packer/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/packer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rpi</title>
-      <link>https://devnall.io/tags/rpi/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/rpi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>terraform</title>
-      <link>https://devnall.io/tags/terraform/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/terraform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu</title>
-      <link>https://devnall.io/tags/ubuntu/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vault</title>
-      <link>https://devnall.io/tags/vault/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/vault/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vmware</title>
-      <link>https://devnall.io/tags/vmware/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/vmware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>automation</title>
-      <link>https://devnall.io/tags/automation/</link>
-      <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/automation/</guid>
       <description></description>
     </item>
     
@@ -298,7 +172,7 @@
     <item>
       <title>mobile</title>
       <link>https://devnall.io/tags/mobile/</link>
-      <pubDate>Sun, 01 Jan 2023 12:28:19 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/tags/mobile/</guid>
       <description></description>
@@ -307,7 +181,7 @@
     <item>
       <title>ogp</title>
       <link>https://devnall.io/tags/ogp/</link>
-      <pubDate>Sun, 01 Jan 2023 12:28:19 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/tags/ogp/</guid>
       <description></description>
@@ -319,6 +193,15 @@
       <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/tags/webp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://devnall.io/tags/git/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/git/</guid>
       <description></description>
     </item>
     
@@ -341,47 +224,11 @@
     </item>
     
     <item>
-      <title>certbot</title>
-      <link>https://devnall.io/tags/certbot/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
+      <title>gitops</title>
+      <link>https://devnall.io/tags/gitops/</link>
+      <pubDate>Tue, 27 Dec 2022 18:19:00 +0000</pubDate>
       
-      <guid>https://devnall.io/tags/certbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>encrypt</title>
-      <link>https://devnall.io/tags/encrypt/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/encrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>letsencrypt</title>
-      <link>https://devnall.io/tags/letsencrypt/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/letsencrypt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nginx</title>
-      <link>https://devnall.io/tags/nginx/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/nginx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>https://devnall.io/tags/ssl/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/tags/ssl/</guid>
+      <guid>https://devnall.io/tags/gitops/</guid>
       <description></description>
     </item>
     
@@ -481,6 +328,15 @@
       <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
       
       <guid>https://devnall.io/tags/rita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpi</title>
+      <link>https://devnall.io/tags/rpi/</link>
+      <pubDate>Fri, 19 Feb 2021 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/tags/rpi/</guid>
       <description></description>
     </item>
     

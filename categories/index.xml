@@ -6,7 +6,25 @@
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 18:19:25 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://devnall.io/categories/linux/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhug</title>
+      <link>https://devnall.io/categories/rhug/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/rhug/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cli</title>
       <link>https://devnall.io/categories/cli/</link>
@@ -53,33 +71,6 @@
     </item>
     
     <item>
-      <title>commands</title>
-      <link>https://devnall.io/categories/commands/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/commands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://devnall.io/categories/linux/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rsync</title>
-      <link>https://devnall.io/categories/rsync/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/rsync/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>android</title>
       <link>https://devnall.io/categories/android/</link>
       <pubDate>Tue, 17 Jan 2023 09:00:35 +0000</pubDate>
@@ -107,47 +98,11 @@
     </item>
     
     <item>
-      <title>draft</title>
-      <link>https://devnall.io/categories/draft/</link>
-      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/draft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>devops</title>
       <link>https://devnall.io/categories/devops/</link>
-      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
       
       <guid>https://devnall.io/categories/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>servers</title>
-      <link>https://devnall.io/categories/servers/</link>
-      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/servers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iac</title>
-      <link>https://devnall.io/categories/iac/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/iac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vmware</title>
-      <link>https://devnall.io/categories/vmware/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/categories/vmware/</guid>
       <description></description>
     </item>
     
@@ -172,7 +127,7 @@
     <item>
       <title>hugo</title>
       <link>https://devnall.io/categories/hugo/</link>
-      <pubDate>Sun, 01 Jan 2023 12:28:19 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 12:00:38 +0000</pubDate>
       
       <guid>https://devnall.io/categories/hugo/</guid>
       <description></description>

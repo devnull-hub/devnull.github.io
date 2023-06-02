@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://devnall.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Red Hat User Group Insights, Ansible Automation Platform, and ITSM Integration</title>
+      <link>https://devnall.io/blog/linux/rhug/sys-man-rem/</link>
+      <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/linux/rhug/sys-man-rem/</guid>
+      <description>Introduction: This blog post aims to summarize the key takeaways from this informative workshop.
+At the recent Red Hat User Group workshop on Red Hat Insights, Red Hat Ansible Automation Platform, and their integration with management (ITSM) systems, such as ServiceNow, provided valuable insights into how these technologies work together.</description>
+    </item>
+    
+    <item>
       <title>Robocopy Examples</title>
       <link>https://devnall.io/blog/windows/robocopy/</link>
       <pubDate>Fri, 10 Feb 2023 10:35:35 +0000</pubDate>
@@ -32,15 +42,6 @@ In this post, we will take a look at how to ues robocopy to copy, mirror, purge 
       
       <guid>https://devnall.io/blog/cloud/aws/static-web/</guid>
       <description>Getting Started Amazon Simple Storage Service (Amazon S3) is an cloud based object storage device. It is a low cost storage widely used for the backup or static website content.</description>
-    </item>
-    
-    <item>
-      <title>Linux Rsync Commands </title>
-      <link>https://devnall.io/blog/linux/sysadmin/rsync/ex/</link>
-      <pubDate>Sun, 22 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/linux/sysadmin/rsync/ex/</guid>
-      <description>Introduction Rsync, or Remote Sync, is a free command-line tool that lets you transfer files and directories to local and remote destinations.</description>
     </item>
     
     <item>
@@ -103,42 +104,6 @@ Then double click the JDK and follow all the installation steps.</description>
     </item>
     
     <item>
-      <title>jenkins</title>
-      <link>https://devnall.io/blog/git/gitea/jenkins/</link>
-      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/git/gitea/jenkins/</guid>
-      <description>Heading Summary Next in the Series: Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
-    </item>
-    
-    <item>
-      <title>setup</title>
-      <link>https://devnall.io/blog/git/gitea/setup/</link>
-      <pubDate>Mon, 09 Jan 2023 15:57:52 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/git/gitea/setup/</guid>
-      <description>Heading Summary Next in the Series: Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
-    </item>
-    
-    <item>
-      <title>Docker Use Bridge Networks</title>
-      <link>https://devnall.io/blog/devops/docker/networking/bridge/</link>
-      <pubDate>Sun, 08 Jan 2023 12:32:47 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/devops/docker/networking/bridge/</guid>
-      <description>Use Bridge Networks Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
-    </item>
-    
-    <item>
-      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
-      <link>https://devnall.io/blog/devops/build-srv/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/devops/build-srv/</guid>
-      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
-    </item>
-    
-    <item>
       <title>Docker IPvlan Networks</title>
       <link>https://devnall.io/blog/devops/docker/networking/ipvlan/</link>
       <pubDate>Sat, 07 Jan 2023 14:35:35 +0000</pubDate>
@@ -167,15 +132,6 @@ Network drivers Docker’s networking subsystem is pluggable, using drivers.</de
     </item>
     
     <item>
-      <title>Docker Use Host Networks</title>
-      <link>https://devnall.io/blog/devops/docker/networking/host/</link>
-      <pubDate>Tue, 03 Jan 2023 09:32:57 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/devops/docker/networking/host/</guid>
-      <description>Host Networking Docker Use Host NetworksDocker MacVLAN NetworksDocker Networking OverviewDocker IPvlan NetworksDocker Use Bridge Networks</description>
-    </item>
-    
-    <item>
       <title>VScode Automating Creation Folder and Files</title>
       <link>https://devnall.io/blog/vscode/folder-temp/</link>
       <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
@@ -183,15 +139,6 @@ Network drivers Docker’s networking subsystem is pluggable, using drivers.</de
       <guid>https://devnall.io/blog/vscode/folder-temp/</guid>
       <description>VS-Code Folder Templates Because creating the same directories over and over again is annoying to do manually.- Huuums
 Automation&amp;hellip;automation!!! We are always trying to improve things through automation.</description>
-    </item>
-    
-    <item>
-      <title>Without</title>
-      <link>https://devnall.io/blog/hugo/tips/image_metadata/without/</link>
-      <pubDate>Sun, 01 Jan 2023 12:28:19 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/hugo/tips/image_metadata/without/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -220,17 +167,6 @@ Last Modified Last Updated Edited Conditionally render a Last Modified date in t
       
       <guid>https://devnall.io/blog/git/commit-msg/</guid>
       <description>GIT OOPS! QuestionYep&amp;hellip; I have absolutely no idea what I meant by &amp;lsquo;Fix foobar&amp;rsquo; 6 months ago.Trying to write better commits fixed bug on landing page vs.</description>
-    </item>
-    
-    <item>
-      <title>Let’s Encrypt Wildcard Certifications</title>
-      <link>https://devnall.io/blog/web/certbot/</link>
-      <pubDate>Tue, 27 Dec 2022 18:00:01 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/web/certbot/</guid>
-      <description>Let’s Encrypt Wildcard Certifications Assuming Debian based OS
-Step 1. Install certbot APT Get the latest version certbot.
-Update apt package manager and applications.</description>
     </item>
     
     <item>

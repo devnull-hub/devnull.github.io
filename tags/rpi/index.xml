@@ -6,16 +6,7 @@
     <description>Recent content in rpi on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 10:35:35 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/rpi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Basic Setup VMware On-Prem Infrastructure as Code (Iac) - Part 1</title>
-      <link>https://devnall.io/blog/devops/build-srv/</link>
-      <pubDate>Sun, 08 Jan 2023 10:35:35 +0000</pubDate>
-      
-      <guid>https://devnall.io/blog/devops/build-srv/</guid>
-      <description>DevSecOps On-Prem IaC A lot of applications are still on-prem and most resources available today for automation are focused on cloud and very little on traditional data center automation skills.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 19 Feb 2021 21:32:22 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/rpi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to use a Raspberry PI 4 as a Network Sensor with Zeek and Rita</title>
       <link>https://devnall.io/blog/sec/rita-zeek-rpi4/</link>
