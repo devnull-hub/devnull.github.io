@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vmug on devnall |  Personal Blog</title>
+    <link>https://devnall.io/categories/vmug/</link>
+    <description>Recent content in vmug on devnall |  Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2023 21:32:22 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/vmug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 Phoenix VMUG UserCon</title>
+      <link>https://devnall.io/blog/vmware/</link>
+      <pubDate>Fri, 08 Sep 2023 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/vmware/</guid>
+      <description>Introduction: The recent 2023 Phoenix VMUG UserCon brought together some like-minded people in the field, with discussions ranging from VMware technologies to best practices for optimizing existing systems.</description>
+    </item>
+    
+  </channel>
+</rss>

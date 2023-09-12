@@ -6,13 +6,22 @@
     <description>Recent content in Series on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2023 18:19:25 +0000</lastBuildDate><atom:link href="https://devnall.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 21:32:22 +0000</lastBuildDate><atom:link href="https://devnall.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo Tips</title>
-      <link>https://devnall.io/post/hugo-tips/</link>
+      <title>vmware</title>
+      <link>https://devnall.io/post/vmware/</link>
+      <pubDate>Fri, 08 Sep 2023 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/post/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhug</title>
+      <link>https://devnall.io/post/rhug/</link>
       <pubDate>Thu, 01 Jun 2023 18:19:25 +0000</pubDate>
       
-      <guid>https://devnall.io/post/hugo-tips/</guid>
+      <guid>https://devnall.io/post/rhug/</guid>
       <description></description>
     </item>
     
@@ -58,6 +67,15 @@
       <pubDate>Mon, 02 Jan 2023 15:55:19 +0000</pubDate>
       
       <guid>https://devnall.io/post/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Tips</title>
+      <link>https://devnall.io/post/hugo-tips/</link>
+      <pubDate>Thu, 29 Dec 2022 09:46:35 +0000</pubDate>
+      
+      <guid>https://devnall.io/post/hugo-tips/</guid>
       <description></description>
     </item>
     

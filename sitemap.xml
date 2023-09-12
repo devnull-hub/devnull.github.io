@@ -2,19 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://devnall.io/blog/vmware/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/network/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/networking/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/series/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/vmug/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/vmug/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/tags/vmware/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/post/vmware/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
+    <loc>https://devnall.io/categories/vmware/</loc>
+    <lastmod>2023-09-12T10:35:35+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/tags/automation/</loc>
     <lastmod>2023-06-02T08:18:58+00:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/categories/</loc>
-    <lastmod>2023-06-02T08:18:58+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/</loc>
-    <lastmod>2023-06-02T08:18:58+00:00</lastmod>
-  </url><url>
     <loc>https://devnall.io/tags/devops/</loc>
-    <lastmod>2023-06-02T08:18:58+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/post/hugo-tips/</loc>
     <lastmod>2023-06-02T08:18:58+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/tags/linux/</loc>
@@ -29,13 +56,10 @@
     <loc>https://devnall.io/tags/rhug/</loc>
     <lastmod>2023-06-02T08:18:58+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/post/rhug/</loc>
+    <lastmod>2023-06-02T08:18:58+00:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/categories/rhug/</loc>
-    <lastmod>2023-06-02T08:18:58+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/series/</loc>
-    <lastmod>2023-06-02T08:18:58+00:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/</loc>
     <lastmod>2023-06-02T08:18:58+00:00</lastmod>
   </url><url>
     <loc>https://devnall.io/categories/cli/</loc>
@@ -185,6 +209,9 @@
     <loc>https://devnall.io/blog/hugo/tips/lastmod-date/</loc>
     <lastmod>2022-12-30T11:00:35+00:00</lastmod>
   </url><url>
+    <loc>https://devnall.io/post/hugo-tips/</loc>
+    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
+  </url><url>
     <loc>https://devnall.io/categories/web/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
@@ -275,12 +302,6 @@
     <loc>https://devnall.io/blog/sec/rita-zeek-rpi4/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
-    <loc>https://devnall.io/tags/network/</loc>
-    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
-  </url><url>
-    <loc>https://devnall.io/tags/networking/</loc>
-    <lastmod>2023-01-08T10:43:35-07:00</lastmod>
-  </url><url>
     <loc>https://devnall.io/tags/pi/</loc>
     <lastmod>2023-01-08T10:43:35-07:00</lastmod>
   </url><url>
@@ -332,6 +353,8 @@
     <loc>https://devnall.io/post/2023/01/</loc>
   </url><url>
     <loc>https://devnall.io/post/2023/02/</loc>
+  </url><url>
+    <loc>https://devnall.io/post/2023/09/</loc>
   </url><url>
     <loc>https://devnall.io/post/2023/6/</loc>
   </url><url>

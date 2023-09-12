@@ -6,7 +6,25 @@
     <description>Recent content in Categories on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2023 18:19:25 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 21:32:22 +0000</lastBuildDate><atom:link href="https://devnall.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vmug</title>
+      <link>https://devnall.io/categories/vmug/</link>
+      <pubDate>Fri, 08 Sep 2023 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/vmug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://devnall.io/categories/vmware/</link>
+      <pubDate>Fri, 08 Sep 2023 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/categories/vmware/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
       <link>https://devnall.io/categories/linux/</link>

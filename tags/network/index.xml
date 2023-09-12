@@ -6,7 +6,16 @@
     <description>Recent content in network on devnall |  Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 21:32:22 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 21:32:22 +0000</lastBuildDate><atom:link href="https://devnall.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 Phoenix VMUG UserCon</title>
+      <link>https://devnall.io/blog/vmware/</link>
+      <pubDate>Fri, 08 Sep 2023 21:32:22 +0000</pubDate>
+      
+      <guid>https://devnall.io/blog/vmware/</guid>
+      <description>Introduction: The recent 2023 Phoenix VMUG UserCon brought together some like-minded people in the field, with discussions ranging from VMware technologies to best practices for optimizing existing systems.</description>
+    </item>
+    
     <item>
       <title>How to use a Raspberry PI 4 as a Network Sensor with Zeek and Rita</title>
       <link>https://devnall.io/blog/sec/rita-zeek-rpi4/</link>
